@@ -1,0 +1,19 @@
+{
+    "PET": {
+        "description": "Polyethylene Terephthalate",
+        "raw_materials": [
+            "PTA",
+            "MEG"
+        ]
+    },
+    "Soda-lime glass": {
+        "description": "Common glass used for bottles and containers",
+        "raw_materials": [
+            "Silica sand",
+            "Soda ash",
+            "Limestone",
+            "Dolomite",
+            "Cullet"
+        ]
+    }
+}

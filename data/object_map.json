@@ -1,0 +1,22 @@
+{
+    "bottle": {
+        "display_name": "Bottle",
+        "material_candidates": [
+            "PET",
+            "Soda-lime glass"
+        ]
+    },
+
+    "person": {
+        "display_name": "Person",
+        "material_candidates": []
+    },
+
+    "cup": {
+        "display_name": "Cup",
+        "material_candidates": [
+            "PET",
+            "Soda-lime glass"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "INDR.JK": {
+        "name": "PT Indo-Rama Synthetics Tbk",
+        "ticker": "INDR.JK",
+        "country": "Indonesia",
+        "status": "Public",
+        "exchange": "IDX",
+        "materials": [
+            "PET"
+        ]
+    },
+
+    "RELIANCE.NS": {
+        "name": "Reliance Industries Limited",
+        "ticker": "RELIANCE.NS",
+        "country": "India",
+        "status": "Public",
+        "exchange": "NSE",
+        "materials": [
+            "PET"
+        ]
+    },
+
+    "SISE.IS": {
+        "name": "Türkiye Şişe ve Cam Fabrikaları A.Ş. (Şişecam)",
+        "ticker": "SISE.IS",
+        "country": "Turkey",
+        "status": "Public",
+        "exchange": "Borsa Istanbul",
+        "materials": [
+            "Soda-lime glass",
+            "Soda ash"
+        ]
+    }
+}

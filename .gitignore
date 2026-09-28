@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Training results
+runs/
+
+# Local datasets
+dataset/
+dataset_home/
+
+# YOLO temporary files
+*.cache
+
+# Backups
+*_backup.py
+*_backup_v2.py
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Environment / secrets
+.env
+yolo*.pt
